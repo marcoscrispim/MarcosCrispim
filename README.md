@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarcosCrispim
 - 👀 Eu amo esportes
-- 🌱 Sou estudande de A e D de sistemas 2/4
-- 💞️ Sonho em criar apps
+- 🌱 Sou estudande de A e D de sistemas 4/4
+- Quase 2 anos trabalhando com desenvovimento
 - 📫 Meu contato é contato.marcoscrispim@gmail.com
 
 <div>
